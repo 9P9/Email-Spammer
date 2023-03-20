@@ -1,9 +1,11 @@
 @echo off
-title [FloodMail.net] -
+title [Floodmail.net] -
 IF EXIST node_modules (
 goto start
 ) else (
 npm install
+cls
+node --no-warnings index.js
 )
 :start
 cls
