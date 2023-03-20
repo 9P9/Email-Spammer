@@ -11,7 +11,7 @@
 ## Steps
   **1.** Install NodeJS - https://nodejs.org/en/download/
  
-  **2.** Run the "**run.bat**" file
+  **2.** Run the "**run.bat**" file first time to install packages, run again to start
 
   **3.** Enter email and press enter
 
