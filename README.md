@@ -6,6 +6,7 @@
 </div>
 
 ## Free Email Flooder
+## Every 10 stars, 10 more emails will be added! Share!
 <a href="https://shoppy.gg/product/cMJJIxX">Purchase Key!</a>
 
 ## Steps
