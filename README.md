@@ -7,7 +7,7 @@
 
 ## Free Email Flooder
 ## Every 10 stars, 10 more emails will be added! Share!
-<a href="https://shoppy.gg/product/cMJJIxX">Purchase Key!</a>
+For unlimited floods with more emails: <a href="https://shoppy.gg/product/cMJJIxX">Purchase Key!</a>
 
 ## Steps
   **1.** Install NodeJS - https://nodejs.org/en/download/
